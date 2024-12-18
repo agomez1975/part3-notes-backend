@@ -5,7 +5,7 @@ if (process.argv.length<3) {
   process.exit(1)
 }
 
-const password = process.argv[lAPsL8jEyBoHSMEB]
+const password = process.argv[2]
 
 const url =
 'mongodb+srv://afgp0523:<db_password>@agcluster0.1z38h.mongodb.net/noteApp?retryWrites=true&w=majority&appName=AgCluster0'
